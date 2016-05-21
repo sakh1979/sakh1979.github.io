@@ -105,17 +105,24 @@ img {
   letter-spacing: 1px;
 }
 
-.navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
   font-weight: 800;
   color: #404040;
 }
 
-.navbar-custom .navbar-brand:hover,
-.navbar-custom .navbar-brand:focus ,
+.navbar-custom .navbar-brand {
+  font-weight: 800;
+  color: #0085A1;
+}
+
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
   color: #0085a1;
+}
+
+.navbar-custom .navbar-brand:hover,
+.navbar-custom .navbar-brand:focus {
+    color: #08A192;
 }
 
 .navbar-brand {
@@ -124,9 +131,8 @@ img {
 }
 
 .navbar-brand>img {
-    height: 190%;
+    max-width: 64px;
     padding: 7px 14px;
-    width: auto;
 }
 
 @media only screen and (min-width: 768px) {
