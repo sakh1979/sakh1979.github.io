@@ -562,3 +562,26 @@ table tr th :last-child,
 table tr td :last-child {
   margin-bottom: 0;
 }
+
+
+/* --- Strobist Information --- */
+
+.strobist-info {
+    background: #222;
+    color: #fafafa;
+    padding: .25em 1em 2em 1em;
+    margin: 2em 0;
+}
+
+.strobist-info .row li {
+    margin: .75em 0;
+}
+
+.strobist-info .row h2 {
+    line-height: 1.5em;
+}
+
+.strobist-info .row h3 {
+    line-height: 1.5em;
+    font-style: italic;
+}
