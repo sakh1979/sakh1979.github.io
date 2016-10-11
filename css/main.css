@@ -585,3 +585,21 @@ table tr td :last-child {
     line-height: 1.5em;
     font-style: italic;
 }
+
+
+/* --- Images with caption --- */
+
+.image-with-caption {
+    margin-bottom: 2em;
+}
+
+.image-with-caption .caption {
+    border: 1px solid #eaeaea;
+    border-width: 1px 0;
+    padding: 1em 0 0 0;
+    text-align: left;
+}
+
+.image-with-caption .caption p {
+    margin: 1em 0;
+}
