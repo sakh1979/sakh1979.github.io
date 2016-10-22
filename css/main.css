@@ -598,6 +598,8 @@ table tr td :last-child {
     border-width: 1px 0;
     padding: 1em 0 0 0;
     text-align: left;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
 }
 
 .image-with-caption .caption p {
