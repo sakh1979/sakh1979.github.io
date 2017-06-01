@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://www.sagunkhatri.com/post/reminiscence-of-the-olden-days/</loc>
+    <lastmod>2017-05-31T10:54:24+02:00</lastmod>
+  </url>
   
   <url>
     <loc>http://www.sagunkhatri.com/post/baby-shower-photoshoot/</loc>
@@ -114,13 +120,13 @@
   
   <url>
     <loc>http://www.sagunkhatri.com/post/</loc>
-    <lastmod>2017-04-17T10:54:24+02:00</lastmod>
+    <lastmod>2017-05-31T10:54:24+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.sagunkhatri.com/</loc>
-    <lastmod>2017-04-17T10:54:24+02:00</lastmod>
+    <lastmod>2017-05-31T10:54:24+02:00</lastmod>
     <priority>0</priority>
   </url>
   
