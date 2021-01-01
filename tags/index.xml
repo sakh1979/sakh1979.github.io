@@ -7,10 +7,6 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>sakh1979@gmail.com (Sagun Khatri)</managingEditor>
-    <webMaster>sakh1979@gmail.com (Sagun Khatri)</webMaster>
-    
-	<atom:link href="http://www.sagunkhatri.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <webMaster>sakh1979@gmail.com (Sagun Khatri)</webMaster><atom:link href="http://www.sagunkhatri.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
